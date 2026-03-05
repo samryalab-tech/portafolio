@@ -49,6 +49,6 @@ app.listen(PORT, () => {
   ✅ Servidor Full Stack Funcionando
   📡 Puerto: ${PORT}
   📂 Ruta Frontend: ${frontendPath}
-  ===========================================
+  ====================== vamos a ver si funciona
   `);
 });
